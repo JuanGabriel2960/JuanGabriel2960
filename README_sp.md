@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! My name is Juan Gabriel Tavárez López</h1>
-<h3 align="left">I'm a Fullstack Software Developer from Dominican Republic 🇩🇴</h3>
+<h1 align="left" id="macropower-title">:wave: ¡Hola! Mi nombre es Juan Gabriel Tavárez López</h1>
+<h3 align="left">Soy un Desarrollador de Software Fullstack de República Dominicana 🇩🇴</h3>
 
 [![english](https://img.shields.io/badge/english-🇺🇸-ffbb20?style=flat-square)](README.md)
 [![spanish](https://img.shields.io/badge/spanish-🇪🇸-ffbb20?style=flat-square)](README_sp.md)
@@ -10,17 +10,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGabriel2960&layout=compact&langs_count=8&theme=dracula" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Intellisys D. Corp.](https://github.com/intellisysdcorp)**
-- :seedling: &nbsp;I’m focused on learning **Flutter**
-- :speech_balloon: &nbsp;I like to develop fun and useful applications that aim to help other people to tasks easier or gain knowledge.
-- :computer: &nbsp;Contact me via **[Email](mailto:juangabriel2960@gmail.com)**
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/juan-gabriel-tav%C3%A1rez-l%C3%B3pez/)**
+- :office: &nbsp;Actualmente estoy trabajando en **[Intellisys D. Corp.](https://github.com/intellisysdcorp)**
+- :seedling: &nbsp;Estoy enfocado en aprender **Flutter**
+- :speech_balloon: &nbsp;Me gusta desarrollar aplicaciones divertidas y útiles que tienen como objetivo ayudar a otras personas a realizar tareas más fácilmente o adquirir conocimientos.
+- :computer: &nbsp;Contáctame por **[Email](mailto:juangabriel2960@gmail.com)**
+- :computer: &nbsp;Conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/juan-gabriel-tav%C3%A1rez-l%C3%B3pez/)**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Technologies</h2>
+<h2 align="left" id="macropower-tech">Tecnologías favoritas</h2>
 
-> Tools, languages, and other resources that I like to work with.
+> Herramientas, lenguajes y otros recursos con las que me gusta trabajar.
 
 <table>
   <tr>
